@@ -1,4 +1,4 @@
-/* 切换背景 */
+/* 切换背景，淡入淡出 */
 .cb-slideshow,
 .cb-slideshow:after {
     position: fixed;
